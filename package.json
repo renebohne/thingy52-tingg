@@ -1,0 +1,23 @@
+{
+  "name": "thingy52-tingg",
+  "version": "1.0.0",
+  "description": "Connects a Nordic thingy:52 to tingg.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renebohne/thingy52-tingg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renebohne/thingy52-tingg/issues"
+  },
+  "homepage": "https://github.com/renebohne/thingy52-tingg#readme",
+  "dependencies": {
+    "mqtt": "^2.18.8",
+    "thingy52": "^1.0.4"
+  }
+}
